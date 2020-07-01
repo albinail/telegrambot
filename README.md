@@ -31,3 +31,13 @@
 
 2.3. Модель хорошо переносит стиль письма и материалы: может сделать из масла -пастель
 
+<div align="left">
+
+<img src="https://github.com/albinail/telegrambot/blob/master/alexnet/examples/nalb.png" width="200" float= "left"  > <img src="https://github.com/albinail/telegrambot/blob/master/alexnet/examples/dega_ist.png" width="200" float= "left" ><img src="https://github.com/albinail/telegrambot/blob/master/alexnet/examples/nalb_dega.png" width="200" float= "left" >
+</div>
+
+<div align="left">
+
+<img src="https://github.com/albinail/telegrambot/blob/master/alexnet/examples/Expressionism-Hubert-Roestenburg-Alpenzicht-Buching-Halblech-L.jpg" width="200" float= "left"  > <img src="https://github.com/albinail/telegrambot/blob/master/alexnet/examples/Expressionism_wood.jpg" width="200" float= "left" ><img src="https://github.com/albinail/telegrambot/blob/master/alexnet/examples/dali.png" width="200" float= "left" >
+<img src="https://github.com/albinail/telegrambot/blob/master/alexnet/examples/dali_style.png" width="200" float= "left" >
+</div>
