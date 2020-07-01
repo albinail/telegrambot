@@ -38,6 +38,9 @@
 
 <div align="left">
 
-<img src="https://github.com/albinail/telegrambot/blob/master/alexnet/examples/Expressionism-Hubert-Roestenburg-Alpenzicht-Buching-Halblech-L.jpg" width="200" float= "left"  > <img src="https://github.com/albinail/telegrambot/blob/master/alexnet/examples/Expressionism_wood.jpg" width="200" float= "left" ><img src="https://github.com/albinail/telegrambot/blob/master/alexnet/examples/dali.png" width="200" float= "left" >
+<img src="https://github.com/albinail/telegrambot/blob/master/alexnet/examples/wood.JPG" width="200" float= "left" > 
+<img src="https://github.com/albinail/telegrambot/blob/master/alexnet/examples/Expressionism-Hubert-Roestenburg-Alpenzicht-Buching-Halblech-L.jpg" width="200" float= "left"  ><img src="https://github.com/albinail/telegrambot/blob/master/alexnet/examples/Expressionism_wood.jpg" width="200" float= "left" >
+
+<img src="https://github.com/albinail/telegrambot/blob/master/alexnet/examples/dali.png" width="200" float= "left" >
 <img src="https://github.com/albinail/telegrambot/blob/master/alexnet/examples/dali_style.png" width="200" float= "left" >
 </div>
