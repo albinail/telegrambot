@@ -1,6 +1,6 @@
 # telegrambot  <a href= "https://t.me/dlsalbibot">@dlsalbibot </a>. 
 
-В данный моент работает вариант 2 на Alexnet
+В данный моент работает вариант 2 на Alexnet, должен работать на heroku (если ничего не отвалилось)
 
 
 
