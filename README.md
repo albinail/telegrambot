@@ -1,6 +1,8 @@
 # telegrambot  <a href= "https://t.me/dlsalbibot">@dlsalbibot </a>. 
 
-В данный моент работает вариант 2 на Alexnet, должен работать на heroku (если ничего не отвалилось)
+После дедлайна обновила описание. 
+
+В данный момент работает вариант бота на Alexnet (вирант 2.), бот должен работать на heroku (если ничего не отвалилось, на всякий случай добавила описание деплоя).
 
 
 
@@ -52,3 +54,7 @@
 <img src="https://github.com/albinail/telegrambot/blob/master/alexnet/examples/dali_style.png" width="200" float= "left" >
 
 </div>
+
+3. Деплой на Heroku. Использованы версии библиотек torch и torchvision на cpu. Бот работает на Webhook (server Flask), пример взяла из официальной документации pyTelegramBotAPI. 
+
+<img src="https://github.com/albinail/telegrambot/blob/master/alexnet/examples/heroku.png" width="500" float= "left" >
