@@ -16,7 +16,10 @@
 
 1.2.  Модель хорошо переносит абстрактные стили, например Кандинского
 <div align="left">
-<img src="https://avatars.mds.yandex.net/get-pdb/902733/b754c609-3527-415c-a115-9f1a2665035a/s1200?webp=false" width="200" float= "left"  ><img src="https://github.com/albinail/telegrambot/blob/master/all%20model/output/vgg_all_cat_kand.png" width="200" float= "left"  ><img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Vassily_Kandinsky%2C_1913_-_Composition_7.jpg" width="200" float= "left"  ><img src="https://github.com/albinail/telegrambot/blob/master/all%20model/output/vgg_all_cat_kand1913.png" width="200" float= "left"  >
+<img src="https://avatars.mds.yandex.net/get-pdb/902733/b754c609-3527-415c-a115-9f1a2665035a/s1200?webp=false" width="200" float= "left"  ><img src="https://github.com/albinail/telegrambot/blob/master/all%20model/output/vgg_all_cat_kand.png" width="200" float= "left"  >
+  
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Vassily_Kandinsky%2C_1913_-_Composition_7.jpg" width="200" float= "left"  ><img src="https://github.com/albinail/telegrambot/blob/master/all%20model/output/vgg_all_cat_kand1913.png" width="200" float= "left"  >
   
 </div>
 
