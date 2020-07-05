@@ -57,4 +57,4 @@
 
 3. Деплой на Heroku. Использованы версии библиотек torch и torchvision на cpu. Бот работает на Webhook (server Flask), пример взяла из официальной документации pyTelegramBotAPI. 
 
-<img src="https://github.com/albinail/telegrambot/blob/master/alexnet/examples/heroku.png" width="500" float= "left" >
+<img src="https://github.com/albinail/telegrambot/blob/master/alexnet/examples/heroku1.png" width="500" float= "left" >
