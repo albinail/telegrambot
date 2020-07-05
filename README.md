@@ -2,7 +2,7 @@
 
 После дедлайна обновила описание. 
 
-В данный моент работает вариант 2 бота на Alexnet, должен работать на heroku (если ничего не отвалилось).
+В данный моент работает вариант бота на Alexnet (вирант 2.), бот должен работать на heroku (если ничего не отвалилось, на всякий случай добавила описание деплоя).
 
 
 
@@ -57,4 +57,4 @@
 
 3. Деплой на Heroku. Использованы версии библиотек torch и torchvision на cpu. Бот работает на Webhook (server Flask), пример взяла из официальной документации pyTelegramBotAPI. 
 
-<img src="https://github.com/albinail/telegrambot/blob/master/alexnet/examples/heroku.png" width="200" float= "left" >
+<img src="https://github.com/albinail/telegrambot/blob/master/alexnet/examples/heroku.png" width="500" float= "left" >
